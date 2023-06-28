@@ -1,4 +1,4 @@
-FROM betaflight/cloudbuild:ARM10.3
+FROM betaflight/BFcloudbuild:ARM10.3
 
 ARG COMMIT="master"
 ARG REPO="https://github.com/DubOliver/BFuplicate.git"
