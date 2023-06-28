@@ -1,7 +1,7 @@
 FROM betaflight/cloudbuild:ARM10.3
 
 ARG COMMIT="master"
-ARG REPO="https://github.com/betaflight/betaflight.git"
+ARG REPO="https://github.com/DubOliver/BFuplicate.git"
 
 RUN echo "$REPO $COMMIT"
 
