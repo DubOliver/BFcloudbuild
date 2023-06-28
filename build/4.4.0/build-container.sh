@@ -13,7 +13,7 @@ if [ -z "$TAG" ]; then
 fi
 
 if [ -z "$REPO" ]; then
-    REPO="https://github.com/betaflight/betaflight.git"
+    REPO="https://github.com/DubOliver/BFuplicate.git"
 fi
 
 echo "using ${TAG} -> ${BRANCH} (${REPO})"
